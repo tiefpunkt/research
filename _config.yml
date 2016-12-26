@@ -5,11 +5,11 @@ email: severin@schols.de
 description: > # this means to ignore newlines until "baseurl:"
   Collection of research on different projects and topics.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://research.tiefpunkt.com" # the base hostname & protocol for your site
 twitter_username: tiefpunkt
 github_username:  tiefpunkt
 
 # Build settings
-markdown:   redcarpet
+markdown:   kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data', 'autolink']

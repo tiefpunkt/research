@@ -52,6 +52,9 @@ Thingiverse and similar sites also host numerous open source furniture projects.
 * https://www.thingiverse.com/thing:32036
 * Ping Pong Table - https://www.youmagine.com/designs/pingpong-table-diy
 * https://www.youmagine.com/designs/small-table-side-table
+* The Strap Chair - https://www.thingiverse.com/thing:190793
+* FabChair - https://www.thingiverse.com/thing:994029
+* https://www.thingiverse.com/thing:870738
 
 ### 3D printing
 3D printing entire pieces of furniture is usually not very practical. However, a usage for 3D printing in open source furniture seem to be connectors, allowing to connect e.g. pieces of wood together to a certain design.
@@ -66,6 +69,7 @@ Other people doing their own designs
 * http://www.pedroterralab.com/open-source-furniture/
 * http://os-furnitures.tumblr.com/ - Mozilla Factory Open Source Furniture
   * http://nosigner.com/case/mozilla-factory/
+  * https://www.thingiverse.com/thing:386084
 * http://www.ningaldesign.com/fabrics - two chairs, no source files available
   * more pictures at http://design-milk.com/open-source-chairs-can-make-home/
 * http://www.evilmadscientist.com/2012/cnc-workstation/ - CNC PC workstation with drawers
