@@ -44,7 +44,7 @@ Database of open source parts and complete designs
 ## Thingiverse & YouMagine
 Thingiverse and similar sites also host numerous open source furniture projects. Some examples:
 
-* Space Frame Stools - >https://www.thingiverse.com/thing:32861>
+* Space Frame Stools - <https://www.thingiverse.com/thing:32861>
 * <https://www.thingiverse.com/thing:763605>
 * One Day Chair - <https://www.thingiverse.com/thing:338>
 * Ying and Yang stool - <https://www.thingiverse.com/thing:156585>
@@ -67,6 +67,7 @@ Thingiverse and similar sites also host numerous open source furniture projects.
 
 ## Others
 Other people doing their own designs
+
 * <http://www.pedroterralab.com/open-source-furniture/>
 * <http://os-furnitures.tumblr.com/> - Mozilla Factory Open Source Furniture
   * <http://nosigner.com/case/mozilla-factory/>
@@ -81,5 +82,5 @@ Other people doing their own designs
 ## Collections
 Sites collecting designs, and linking to them
 
-* http://www.opendesignfurniture.com/
-* http://makingsociety.com/2013/02/20-open-source-furniture-designs/
+* <http://www.opendesignfurniture.com/>
+* <http://makingsociety.com/2013/02/20-open-source-furniture-designs/>
