@@ -28,6 +28,7 @@ This was done earlier, but not sure when it was released. Also called "Social Fu
 
 ## SketchChair
 Open source software to make your own chairs. Resulted in quite a bit of open source furniture designs (not only chairs).
+
 * Website <http://www.sketchchair.cc/>
   * Currently not available, but via WayBack machine: <https://web-beta.archive.org/web/20161031150203/http://sketchchair.cc/>
 * Kickstarter, incl. video: <https://www.kickstarter.com/projects/diatom/sketchchair-furniture-designed-by-you>
